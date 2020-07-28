@@ -2,7 +2,7 @@ package com.example.yccarithmetic;
 
 import java.util.Arrays;
 
-public class YccSelectFinal {
+public class YccSelectSort {
     public static void main(String[] args) {
         int a[] = {1000,2,1,5,3,9,8,6,7,4,10,10,7};
         yccSelectSort(a);
